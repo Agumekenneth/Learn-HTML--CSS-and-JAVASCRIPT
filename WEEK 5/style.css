@@ -1,0 +1,24 @@
+div {
+    background-color: antiquewhite;
+}
+
+div:nth-of-type(2) {
+    background-color: rgb(233, 181, 181);
+}
+
+p {
+    color: blue;
+}div {
+    background-color: antiquewhite;
+    max-width: 1000%;
+    padding: auto;
+    margin-inline: auto;
+}
+
+div:nth-of-type(2) {
+    background-color: rgb(233, 181, 181);
+}
+
+p {
+    color: blue;
+}
