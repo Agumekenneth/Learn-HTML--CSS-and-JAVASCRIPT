@@ -3,6 +3,7 @@ export default function Home(){
   let secondNumner = 7
   let sum = firstNumber + secondNumner
   let username = 'John Doe'
+  let username2 = 'jane'
 return (
 <div>
   <h1>DATA SCIENCE FOR AFRICA </h1>
@@ -12,7 +13,8 @@ return (
   <br/>
   <em>{sum}</em>
 
-  <p>Greetings,{'username'}🫡</p>
+  <p>Greetings,{username}🫡</p>
+  <p>Greetings,{username2}</p>
 </div>
 )
 }
