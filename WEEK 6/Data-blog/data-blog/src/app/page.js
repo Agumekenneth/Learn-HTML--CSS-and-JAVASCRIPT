@@ -14,7 +14,7 @@ return (
   <em>{sum}</em>
 
   <p>Greetings,{username}🫡</p>
-  <p>Greetings,{username2}</p>
+  <p>Greetings,{username2}🫡</p>
 </div>
 )
 }
